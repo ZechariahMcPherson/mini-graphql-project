@@ -4,19 +4,25 @@ Building out mini graphql project via [this tutorial](https://www.youtube.com/pl
 
 ## How to run project
 
+### Navigate to project folder
+
+```
+ cd server
+```
+
 ### Install node modules
 
 ```
 yarn install
 ```
 
-### start project
+### Start project
 
 ```
 yarn start
 ```
 
-### url
+### Open URL
 
 ```
 http://localhost:4000/graphql?
